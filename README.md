@@ -1,1 +1,1 @@
-# Goorm_boostcamp
+# Goorm-boostcamp
